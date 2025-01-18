@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the flag content
-flag="QS{N3tw0rk_N1nj4_2024}"
+flag="FLAG=QS{N3tw0rk_N1nj4_2024}      Massage=You’ve cracked"
 
 # Create a directory for the challenge
 mkdir -p level2_ctf
