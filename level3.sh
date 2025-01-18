@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the flag content
-flag="QS{Crypt0_M4st3r_2024}"
+flag="FLAG=QS{Crypt0_M4st3r_2024}      Massage=the treasure"
 
 # Create a root directory for the challenge
 mkdir -p level3_ctf
