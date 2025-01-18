@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the flag content
-flag="QS{Qu1ckSn4tch_Ch4mp10n_2024}"
+flag="FLAG=QS{Qu1ckSn4tch_Ch4mp10n_2024}    Massage=like a true"
 
 # Create the main challenge directory
 mkdir -p level5_ctf
